@@ -32,3 +32,6 @@ custom*
 
 # Release build
 release*
+/nbproject/private/
+nbproject/project.properties
+nbproject/project.xml
